@@ -1,4 +1,4 @@
-<a href="https://im.ge/i/qffMy8"><img src="https://i.im.ge/2023/01/02/qffMy8.githumrepo1.png" alt="githumrepo(1)" border="0"></a>
+<img src="./mygithubprofile.png" alt="githubprofile">
 <h1 align="center">Hi 👋, I'm Naymur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh, I specialize in building beautiful and functional websites and applications using technologies like HTML, CSS, JavaScript, React.js, and Next.js. In addition to my technical skills, I am proficient in design tools like Figma and Photoshop. My GitHub profile showcases a variety of projects that demonstrate my abilities and passion for problem-solving and creating. Thank you for visiting my profile and I hope you find something that interests you!</h3>
 
