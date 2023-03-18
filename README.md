@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naymur143" alt="naymur143" /></a> </p>
 
-- 🔭 I’m currently working on **Augier-art**
+- 🔭 I’m currently working on **Augier-art & Xtraverse**
 
 - 💬 Ask me about **html&css, javascript,react.js, next.js, three.js & gsap**
 
