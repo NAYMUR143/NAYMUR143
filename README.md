@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **html&css, javascript,react.js, next.js, three.js & gsap**
 
-- 📫 How to reach me **naymur.contact@gmail.com**
+- 📫 How to reach me **naymurdev@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
