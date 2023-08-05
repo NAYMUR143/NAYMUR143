@@ -1,6 +1,6 @@
 <img src="./githumrepo.png" alt="githubprofile">
 <h1 align="center">Hi 👋, I'm Naymur Rahman</h1>
-<h3 align="center">I am a dedicated MERN Stack developer hailing from Bangladesh, recognized for my ability to craft elegant and feature-rich websites and applications. My skill set encompasses an array of technologies including HTML, CSS, JavaScript, Tailwind CSS, Ant Design, MUI React.js, Next.js, Node.js, Express.js, and MongoDB.
+<h3 align="center">I am a dedicated MERN Stack developer hailing from Bangladesh, recognized for my ability to craft elegant and feature-rich websites and applications. My skill set encompasses an array of technologies including HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Ant Design, MUI, React.js,Redux, Next.js, Firebase, Node.js, Express.js, and MongoDB.
 
 Beyond my technical accomplishments, I possess a mastery of design tools such as Figma and Photoshop, adding a layer of creativity to my development endeavors. My GitHub repository serves as a testament to my skills, housing a diverse array of projects that exemplify my problem-solving capabilities and unwavering passion for innovation.
 
