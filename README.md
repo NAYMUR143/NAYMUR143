@@ -17,8 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/naymurweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="naymurweb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/naymur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naymur rahman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/naymur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="naymur" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naymur143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naymur rahman" height="30" width="40" /></a>
+<a href="https://wa.me/+8801867871903" target="blank"><img align="center" src="./whatsup.svg" alt="naymur" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/naymurweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="naymurweb" height="30" width="40" /></a>
 </p>
 
