@@ -1,6 +1,6 @@
 <img src="./githumrepo.png" alt="githubprofile">
 <h1 align="center">Hi 👋, I'm Naymur Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh, I specialize in building beautiful and functional websites and applications using technologies like HTML, CSS, JavaScript, TailwindCss, Ant Design, MUI React.js, Next.js, node.js, express.js, mongoDB. In addition to my technical skills, I am proficient in design tools like Figma and Photoshop. My GitHub profile showcases a variety of projects that demonstrate my abilities and passion for problem-solving and creating. Thank you for visiting my profile and I hope you find something that interests you!</h3>
+<h3 align="center">A passionate MERN Stack developer from Bangladesh, I specialize in building beautiful and functional websites and applications using technologies like HTML, CSS, JavaScript, TailwindCss, Ant Design, MUI React.js, Next.js, node.js, express.js, mongoDB. In addition to my technical skills, I am proficient in design tools like Figma and Photoshop. My GitHub profile showcases a variety of projects that demonstrate my abilities and passion for problem-solving and creating. Thank you for visiting my profile and I hope you find something that interests you!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naymur143&label=Profile%20views&color=0e75b6&style=flat" alt="naymur143" /> </p>
 
