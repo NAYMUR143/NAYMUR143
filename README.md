@@ -1,11 +1,12 @@
 <img src="./githumrepo.png" alt="githubprofile">
 <h1 align="center">Hi 👋, I'm Naymur Rahman</h1>
+<p>
 I am a dedicated MERN Stack developer hailing from Bangladesh, recognized for my ability to craft elegant and feature-rich websites and applications. My skill set encompasses an array of technologies including HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Ant Design, MUI, React.js,Redux, Next.js, Firebase, Node.js, Express.js, and MongoDB.
 
 Beyond my technical accomplishments, I possess a mastery of design tools such as Figma and Photoshop, adding a layer of creativity to my development endeavors. My GitHub repository serves as a testament to my skills, housing a diverse array of projects that exemplify my problem-solving capabilities and unwavering passion for innovation.
 
 Thank you for taking the time to explore my profile. I trust that you will discover a portfolio that resonates with your interests and showcases my dedication to excellence in every facet of development.
-
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naymur143&label=Profile%20views&color=0e75b6&style=flat" alt="naymur143" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naymur143" alt="naymur143" /></a> </p>
