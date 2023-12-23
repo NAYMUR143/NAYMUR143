@@ -11,9 +11,9 @@ Thank you for taking the time to explore my profile. I trust that you will disco
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naymur143" alt="naymur143" /></a> </p>
 
-- 🔭 I’m currently working on **Augier-art** as Freelance Front-end Developer
+- 🔭 I’m currently working Freelance Full-Stack Developer
 
-- 💬 Ask me about **html&css, javascript,react.js, next.js, three.js & gsap**
+- 💬 Ask me about **html&css, javascript, typescript, react.js, next.js, nodejs & mongoDb **
 
 - 📫 How to reach me **naymurdev@gmail.com**
 
